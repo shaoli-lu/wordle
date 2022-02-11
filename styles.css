@@ -4,7 +4,9 @@
 }
 
 body {
-  background-color: hsl(240, 3%, 7%);
+  /* background-color: hsl(240, 3%, 7%); */
+  /* background-color: hsla(120, 100%, 20%, 2); */
+  background-color: #0E4180;
   display: flex;
   flex-direction: column;
   /* max-height: 100vh; */
@@ -86,7 +88,9 @@ body {
 .tile {
   font-size: 2em;
   color: white;
-  border: .05em solid hsl(240, 2%, 23%);
+  /* border: .05em solid hsl(240, 2%, 23%); */
+  /* border: 0.05em solid  hsl(120, 100%, 20%); */
+  border: 0.01em dotted  goldenrod;
   text-transform: uppercase;
   font-weight: bold;
   display: flex;
