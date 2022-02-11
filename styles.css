@@ -90,7 +90,7 @@ body {
   color: white;
   /* border: .05em solid hsl(240, 2%, 23%); */
   /* border: 0.05em solid  hsl(120, 100%, 20%); */
-  border: thick dotted goldenrod;
+  border: thick solid goldenrod;
   text-transform: uppercase;
   font-weight: bold;
   display: flex;
